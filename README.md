@@ -46,7 +46,7 @@
         <div class="product">
 	     <img src="Silk-pillow.jpg" alt="Silk Pillowcase">
             <p>Silk Pillowcases are a great way to sleep comfortably while also ensuring a safe place for your skin to rest. When sleeping the fabric of silk can repel dirt and bacteria, while also creating less friction reducing inflammation.</p>
-            <a [href="https://amzn.to/3xNwUh9](https://amzn.to/4cf9ccN)">Buy Now on Amazon</a>
+		<a href="https://amzn.to/3xNwUh9](https://amzn.to/4cf9ccN)"</a>">Buy Now on Amazon</a>
         <h2>Pintrest</h2>
         <p>Don't forget to follow the pintrest account for more reasources and tips!</p>
         
