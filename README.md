@@ -42,13 +42,16 @@
             <p>This serum is personally my favorite. I have been using this for over a year now and there is never a day I can go without this product. Surprisingly, I feel like this product doesn't get as much hype as the hyaluronic acid serum. But in my case it works in my favor because the store will never be out of stock :) This serum is great for people that have oiky skin and blemished-prone skin. On top of that, it can be used morning and night!</p>
             <a href="https://amzn.to/3W6WBSj">Buy Now on Amazon</a>
         </div>
-        
+<h2>Room Essentials</h2>
+        <div class="product">
+	     <img src="Silk-pillow.jpg" alt="Silk Pillowcase">
+            <p>Silk Pillowcases are a great way to sleep comfortably while also ensuring a safe place for your skin to rest. When sleeping the fabric of silk can repel dirt and bacteria, while also creating less friction reducing inflammation.</p>
+            <a [href="https://amzn.to/3xNwUh9](https://amzn.to/4cf9ccN)">Buy Now on Amazon</a>
         <h2>Pintrest</h2>
         <p>Don't forget to follow the pintrest account for more reasources and tips!</p>
         
         <div class="footer">
             <p>Disclaimer: As an Amazon Associate, I earn from qualifying purchases. This means I may receive a small commission at no additional cost to you.</p>
         </div>
-    </div>
 </body>
 </html>
