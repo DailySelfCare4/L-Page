@@ -53,10 +53,10 @@
 	  <img src="Owala.jpg" alt="Owala Water Bottle">
 	  <p>I love this water bottle! I ushally don't like trendy waterbottles because I just think they are a waste of money. BUT THIS ONE IS AWESOME!!!! I got this water bottle as a gift and I will never use another water bottle. I love how you can sip from it and tip it up to drink. It's great for traveling, carrying around, and sports.</p>
 	  <a href="https://amzn.to/3xL41SU</a>Buy Now on Amazon
-        <h2>Pintrest</h2>
+<h2>Pintrest</h2>
         <p>Don't forget to follow the pintrest account for more reasources and tips!</p>
         
-        <div class="footer">
+<div class="footer">
             <p>Disclaimer: As an Amazon Associate, I earn from qualifying purchases. This means I may receive a small commission at no additional cost to you.</p>
         </div>
 </body>
