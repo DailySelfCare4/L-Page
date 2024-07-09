@@ -55,9 +55,12 @@
 	  <p>I love this water bottle! I ushally don't like trendy waterbottles because I just think they are a waste of money. BUT THIS ONE IS AWESOME!!!! I got this water bottle as a gift and I will never use another water bottle. I love how you can sip from it and tip it up to drink. It's great for traveling, carrying around, and sports.</p>
 	  <a href="https://amzn.to/3xL41SU>Buy Now on Amazon</a>
 </div>
+
+<div class="product">
 	<img scr="FlowerJournal.jpg" alt="Cute Flower Journal">
  <p>I am obsessed with this journal!!! It is the cutest thing. I love when a journal is aesthetically pleasing because it makes me want to pick it up even more!!</p>
  <a href="https://amzn.to/3WhXybK>Buy Now on Amazon</a>
+	 </div>
 		  
 <h2>Pintrest</h2>
         <p>Don't forget to follow the pintrest account for more reasources and tips!</p>
