@@ -94,6 +94,12 @@
             <a href="https://amzn.to/3WhXybK">Buy Now on Amazon</a>
         </div>
 
+        <div class="product">
+            <img scr="GelPens.jpg" alt="Gel Pens">
+            <h3>Gel Pens For Desk or Journaling</h3>
+            <a href="https://amzn.to/4dbkkHV">Buy Now on Amazon</a>
+        </div>
+
         <h2>Pinterest</h2>
         <p>Don't forget to follow the Pinterest account for more resources and tips!</p>
 
