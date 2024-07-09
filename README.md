@@ -71,6 +71,13 @@
             <a href="https://amzn.to/3W6WBSj">Buy Now on Amazon</a>
         </div>
 
+        <div class="product">
+            <img scr="ContourCube.jpg" alt="Contour Cube">
+            <h3> Purple Contour Cube</h3>
+            <p>This is a great tool, if you are looking for something that depuffs your face in the morning or helps prevent breakouts......THIS IS YOUR PRODUCT</p>
+            <a href="https://amzn.to/3VVlHDp">Buy Now on Amazon</a>
+        </div>
+        
         <h2>Room Essentials</h2>
         <div class="product">
             <img src="Silk-pillow.jpg" alt="Silk Pillowcase">
