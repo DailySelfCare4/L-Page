@@ -46,13 +46,19 @@
         <div class="product">
 	     <img src="Silk-pillow.jpg" alt="Silk Pillowcase">
             <p>Silk Pillowcases are a great way to sleep comfortably while also ensuring a safe place for your skin to rest. When sleeping the fabric of silk can repel dirt and bacteria, while also creating less friction reducing inflammation.</p>
-		<a href="https://amzn.to/3xNwUh9](https://amzn.to/4cf9ccN)"> "Buy Now on Amazon</a>
+		<a href="https://amzn.to/3xNwUh9](https://amzn.to/4cf9ccN)">Buy Now on Amazon</a>
+	</div>
 
   <h2>Everyday Life</h2>
   <div class="product">
 	  <img src="Owala.jpg" alt="Owala Water Bottle">
 	  <p>I love this water bottle! I ushally don't like trendy waterbottles because I just think they are a waste of money. BUT THIS ONE IS AWESOME!!!! I got this water bottle as a gift and I will never use another water bottle. I love how you can sip from it and tip it up to drink. It's great for traveling, carrying around, and sports.</p>
-	  <a href="https://amzn.to/3xL41SU</a>Buy Now on Amazon
+	  <a href="https://amzn.to/3xL41SU>Buy Now on Amazon</a>
+</div>
+	<img scr="FlowerJournal.jpg" alt="Cute Flower Journal">
+ <p>I am obsessed with this journal!!! It is the cutest thing. I love when a journal is aesthetically pleasing because it makes me want to pick it up even more!!</p>
+ <a href="https://amzn.to/3WhXybK>Buy Now on Amazon</a>
+		  
 <h2>Pintrest</h2>
         <p>Don't forget to follow the pintrest account for more reasources and tips!</p>
         
