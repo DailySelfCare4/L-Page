@@ -59,8 +59,8 @@
 <div class="product">
 	<img scr="FlowerJournal.jpg" alt="Cute Flower Journal">
  <p>I am obsessed with this journal!!! It is the cutest thing. I love when a journal is aesthetically pleasing because it makes me want to pick it up even more!!</p>
- <a href="https://amzn.to/3WhXybK>Buy Now on Amazon</a>
-	 </div>
+	 <a href="https://amzn.to/3WhXybK>Buy Now on Amazon</a>
+</div>
 		  
 <h2>Pintrest</h2>
         <p>Don't forget to follow the pintrest account for more reasources and tips!</p>
