@@ -1,4 +1,4 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -12,7 +12,9 @@
             background-color: #fdf7f7;
             color: #4d4d4d;
             padding: 20px;
-   .container {
+        }
+
+        .container {
             max-width: 800px;
             margin: 0 auto;
             background: white;
@@ -101,11 +103,12 @@
         </div>
 
         <div class="product">
-            <img scr="ContourCube.jpg" alt="Contour Cube">
+            <img src="ContourCube.jpg" alt="Contour Cube">
             <h3>Purple Contour Cube</h3>
-            <p>This is a great tool if you are looking for something that depuffs your face in the morning or helps prevent breakouts......THIS IS YOUR PRODUCT</p>
+            <p>This is a great tool if you are looking for something that depuffs your face in the morning or helps prevent breakouts... THIS IS YOUR PRODUCT</p>
             <a href="https://amzn.to/3VVlHDp">Buy Now on Amazon</a>
         </div>
+
         <div class="product">
             <img src="Dove.org" alt="Dove Body Wash">
             <h3>Dove Body Wash</h3>
@@ -118,16 +121,19 @@
             <p>Great for exfoliating before shaving.</p>
             <a href="https://amzn.to/3SF13qa">Buy Now on Amazon</a>
         </div>
+
         <div class="product">
             <img src="treehut.org" alt="Tree Hut Shave Oil">
             <h3>Tree Hut Shave Oil: Pink Hibiscus</h3>
             <a href="https://amzn.to/4ddID8h">Buy Now on Amazon</a>
         </div>
+
         <div class="product">
             <img src="Energyrestore.org" alt="Shower Steamers">
-            <h3>Body Restore Shower Steamers </h3>
+            <h3>Body Restore Shower Steamers</h3>
             <a href="https://amzn.to/3Aoxumr">Buy Now on Amazon</a>
         </div>
+
         <h2>Hair Care</h2>
         <div class="product">
             <img src="WetBrush.jpg" alt="Wet Brush">
@@ -135,14 +141,16 @@
             <p>I love this brush! I use it in the shower when I detangle my hair, but also use it when I'm traveling. Very easy to clean, and sturdy enough to get tangles out of my hair!</p>
             <a href="https://amzn.to/4cfhIaP">Buy Now on Amazon</a>
         </div>
+
         <div class="product">
             <img src="ScalpBrush.jpg" alt="Scalp Brush">
             <h3>Pink Scalp Brush</h3>
             <a href="https://amzn.to/4fvA765">Buy Now on Amazon</a>
         </div>
+
         <div class="product">
             <img src="FunctionofBeauty.org" alt="Function of Beauty">
-            <h3>Function of Beauty Wavy Hair Product: Anti Frizz, Shine, Strengthen </h3>
+            <h3>Function of Beauty Wavy Hair Product: Anti Frizz, Shine, Strengthen</h3>
             <p>Where do I even start? This shampoo and conditioner has saved my hair. I used to use Pantene, but I wasn't sure it was the right fit. At first, I came upon Function of Beauty's website and I was in awe. There were so many great reviews, the only problem was it was expensive. Almost a year ago they launched a new program with Target and created Shampoo and Conditioner that was reasonably priced. The fun part is you can buy little boxes that have certain purposes to your hair goals.</p>
             <a href="https://amzn.to/4fvw5KZ">Buy Now on Amazon</a>
         </div>
@@ -158,11 +166,11 @@
         <h2>Everyday Life</h2>
         <div class="product">
             <img src="Owala.jpg" alt="Owala Water Bottle">
-            <h3>Owala Water Bottle</h3>
+            <h3>Owala Water</h3>
 <p>I love this water bottle! I usually don’t like trendy water bottles because I just think they are a waste of money. BUT THIS ONE IS AWESOME!!!! I got this water bottle as a gift and I will never use another water bottle. I love how you can sip from it and tip it up to drink. It’s great for traveling, carrying around, and sports.</p>
-				<a href= "https://amzn.to/3yrFdjg">Buy Now on Amazon</a>
-			</div>
-			
+       <a href="https://amzn.to/3Wznrma">Buy Now on Amazon</a>
+        </div>
+
     <div class="product">
         <img src="FlowerJournal.jpg" alt="Cute Flower Journal">
         <h3>Cute Flower Journal</h3>
@@ -171,7 +179,7 @@
     </div>
 
     <div class="product">
-        <img scr="GelPens.jpg" alt="Gel Pens">
+        <img src="GelPens.jpg" alt="Gel Pens">
         <h3>Gel Pens For Desk or Journaling</h3>
         <a href="https://amzn.to/4dbkkHV">Buy Now on Amazon</a>
     </div>
@@ -182,6 +190,3 @@
     <div class="footer">
         <p>Disclaimer: As an Amazon Associate, I earn from qualifying purchases. This means I may receive a small commission at no additional cost to you.</p>
     </div>
-</div>
-			
-	
