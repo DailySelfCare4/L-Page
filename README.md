@@ -183,9 +183,10 @@
         <h3>Gel Pens For Desk or Journaling</h3>
         <a href="https://amzn.to/4dbkkHV">Buy Now on Amazon</a>
     </div>
-
+<div>
     <h2>Pinterest</h2>
     <p>Don't forget to follow the Pinterest account for more resources and tips!</p>
+</div>
 
     <div class="footer">
         <p>Disclaimer: As an Amazon Associate, I earn from qualifying purchases. This means I may receive a small commission at no additional cost to you.</p>
