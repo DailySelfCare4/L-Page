@@ -155,7 +155,6 @@
             <p>Where do I even start? This shampoo and conditioner has saved my hair. I used to use Pantene, but I wasn't sure it was the right fit. At first, I came upon Function of Beauty's website and I was in awe. There were so many great reviews, the only problem was it was expensive. Almost a year ago they launched a new program with Target and created Shampoo and Conditioner that was reasonably priced. The fun part is you can buy little boxes that have certain purposes to your hair goals.</p>
             <a href="https://amzn.to/4fvw5KZ"></a>
         </div>
-
         <h2>Room Essentials</h2>
         <div class="product">
             <img src="Silk-pillow.jpg" alt="Silk Pillowcase">
@@ -163,7 +162,6 @@
             <p>Silk Pillowcases are a great way to sleep comfortably while also ensuring a safe place for your skin to rest. When sleeping, the fabric of silk can repel dirt and bacteria while also creating less friction, reducing inflammation.</p>
             <a href="https://amzn.to/4cf9ccN"></a>
         </div>
-
         <h2>Everyday Life</h2>
         <div class="product">
             <img src="Owala.jpg" alt="Owala Water Bottle">
@@ -171,23 +169,19 @@
 <p>I love this water bottle! I usually don’t like trendy water bottles because I just think they are a waste of money. BUT THIS ONE IS AWESOME!!!! I got this water bottle as a gift and I will never use another water bottle. I love how you can sip from it and tip it up to drink. It’s great for traveling, carrying around, and sports.</p>
        <a href="https://amzn.to/3Wznrma"></a>
         </div>
-
     <div class="product">
         <img src="FlowerJournal.jpg" alt="Cute Flower Journal">
         <h3>Cute Flower Journal</h3>
         <p>I am obsessed with this journal!!! It is the cutest thing. I love when a journal is aesthetically pleasing because it makes me want to pick it up even more!!</p>
         <a href="https://amzn.to/3WhXybK"></a>
     </div>
-
     <div class="product">
         <img src="GelPens.jpg" alt="Gel Pens">
         <h3>Gel Pens For Desk or Journaling</h3>
         <a href="https://amzn.to/4dbkkHV"></a>
     </div>
-
     <h2>Pinterest</h2>
     <p>Don't forget to follow the Pinterest account for more resources and tips!</p>
-
     <div class="footer">
         <p>Disclaimer: As an Amazon Associate, I earn from qualifying purchases. This means I may receive a small commission at no additional cost to you.</p>
     </div>
