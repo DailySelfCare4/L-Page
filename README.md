@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <!-- Head content like meta tags, title, and stylesheets -->
+<!-- Head content like meta tags, title, and stylesheets -->
 </head>
 <body>
-    <!-- Body content like text, images, and other elements -->
+<!-- Body content like text, images, and other elements -->
 </body>
 </html>
 <head>
@@ -96,14 +96,12 @@
             <p>I just started this book and so far I really like it. I wasn't expecting the layout at first because there is a passage for each day, but I have found I have gotten more out of this blueprint. If you are looking for a book that has insightful information in small doses, this is for you.</p>
             <a href="https://amzn.to/3XNMlR8"></a>
         </div>
-
         <div class="product">
             <img src="Self-HelpJournal.jpg" alt="True You Journal">
             <h3>True You by Dr. Kelly Vincent</h3>
             <p>If you are looking for a book that is interactive and not that much work this is for you. The True You journal provides daily tasks that can help you through your self-discovery journey. If you want to start the habit of journaling daily, this journal is a great place to start!</p>
             <a href="https://amzn.to/3xNwUh9"></a>
         </div>
-
         <h2>Self-Care Products</h2>
         <div class="product">
             <img src="face serum.jpg" alt="Ordinary Face Serum">
@@ -118,32 +116,27 @@
             <p>This is a great tool if you are looking for something that depuffs your face in the morning or helps prevent breakouts... THIS IS YOUR PRODUCT</p>
             <a href="https://amzn.to/3VVlHDp"></a>
         </div>
-
         <div class="product">
             <img src="Dove.org" alt="Dove Body Wash">
             <h3>Dove Body Wash</h3>
             <a href="https://amzn.to/4fruTIy"></a>
         </div>
-
         <div class="product">
             <img src="treehut.org" alt="Tree Hut Scrub">
             <h3>Tree Hut Scrub: Pink Hibiscus</h3>
             <p>Great for exfoliating before shaving.</p>
             <a href="https://amzn.to/3SF13qa"></a>
         </div>
-
         <div class="product">
             <img src="treehut.org" alt="Tree Hut Shave Oil">
             <h3>Tree Hut Shave Oil: Pink Hibiscus</h3>
             <a href="https://amzn.to/4ddID8h"></a>
         </div>
-
         <div class="product">
             <img src="Energyrestore.org" alt="Shower Steamers">
             <h3>Body Restore Shower Steamers</h3>
             <a href="https://amzn.to/3Aoxumr"></a>
         </div>
-
         <h2>Hair Care</h2>
         <div class="product">
             <img src="WetBrush.jpg" alt="Wet Brush">
@@ -151,13 +144,11 @@
             <p>I love this brush! I use it in the shower when I detangle my hair, but also use it when I'm traveling. Very easy to clean, and sturdy enough to get tangles out of my hair!</p>
             <a href="https://amzn.to/4cfhIaP"></a>
         </div>
-
         <div class="product">
             <img src="ScalpBrush.jpg" alt="Scalp Brush">
             <h3>Pink Scalp Brush</h3>
             <a href="https://amzn.to/4fvA765"></a>
         </div>
-
         <div class="product">
             <img src="FunctionofBeauty.org" alt="Function of Beauty">
             <h3>Function of Beauty Wavy Hair Product: Anti Frizz, Shine, Strengthen</h3>
