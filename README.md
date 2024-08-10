@@ -1,8 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
-<!-- Rest of your HTML code -->
+<head>
+    <!-- Head content like meta tags, title, and stylesheets -->
+</head>
+<body>
+    <!-- Body content like text, images, and other elements -->
+</body>
 </html>
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -79,12 +83,13 @@
 <div class="container">
     <!-- content -->
 </div>
+<div>
         <h1>Discover the Best Self-Care Products: Curated Just for You!</h1>
         <p>Explore top-rated self-care products on Amazon and elevate your daily routine.</p>
         <p>Hi! I’m Isabella, a self-care enthusiast dedicated to helping you find the best products to enhance your well-being. I believe that self-care should be enjoyable and affordable for everyone. Some of these products I’ve personally used, while others are recommended based on thorough research. My goal is to ensure you have the best experience with these carefully selected items!</p>
         <h2>Start Your Self-Care Journey Now with a Book!</h2>
         <p>Books are a great way to learn about a subject or enhance your knowledge in a particular area. While reading isn’t for everyone, discovering the right book can transform your perspective on various aspects of life.</p>
-
+</div>
         <div class="product">
             <img src="ThePivotYear.jpg" alt="The Pivot Year">
             <h3>The Pivot Year by Brianna Wiest</h3>
