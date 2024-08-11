@@ -97,7 +97,7 @@
 
     <h2>Self-Care Products</h2>
     <div class="product">
-        <img src="face serum.jpg" alt="Ordinary Face Serum">
+        <img src="faceserum.jpg" alt="Ordinary Face Serum">
         <h3>Ordinary's Niacinamide + Zinc Serum</h3>
         <p>This serum is personally my favorite. I have been using this for over a year now and there is never a day I can go without this product. Surprisingly, I feel like this product doesn't get as much hype as the hyaluronic acid serum. But in my case, it works in my favor because the store will never be out of stock :) This serum is great for people that have oily skin and blemish-prone skin. On top of that, it can be used morning and night!</p>
         <a href="https://amzn.to/3W6WBSj"></a>
